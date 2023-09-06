@@ -1,0 +1,16 @@
+.produto {
+  border: 1px solid #ccc;
+  border-radius:  10px;
+  margin: 20px;
+  padding: 20px;
+  width: 350px;
+  display: inline-block;
+}
+
+.produto .imagem{
+  text-align: center;
+}
+
+.produto img {
+  width: 40%;
+}
